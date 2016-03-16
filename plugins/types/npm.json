@@ -1,0 +1,9 @@
+{"types": [
+    {
+        "id": "npm_package",
+        "display_name": "A node.js package for npm",
+        "description": "A node.js package for npm.",
+        "unit_key": ["name", "version"],
+        "search_indexes": []
+    }
+]}

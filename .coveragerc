@@ -1,0 +1,6 @@
+[run]
+source = .,pulp_npm
+include = ./common/pulp_npm/*,./extensions_admin/pulp_npm/*,./plugins/pulp_npm/*
+
+[report]
+show_missing = True
